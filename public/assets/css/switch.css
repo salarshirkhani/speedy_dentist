@@ -1,0 +1,3 @@
+label:not(.form-check-label):not(.custom-file-label) {
+    padding-top: 8px; 
+}

@@ -1,0 +1,104 @@
+
+.card-box {
+    padding: 20px;
+    border: 1px solid rgba(54, 64, 74, 0.05);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-clip: padding-box;
+    background-color: #ffffff;
+}
+.widget-bg-color-icon .bg-icon-info {
+    background-color: rgba(52, 211, 235, 0.2);
+    border: 1px solid #34d3eb;
+}
+.widget-bg-color-icon .bg-icon {
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 50%;
+}
+.widget-bg-color-icon .bg-icon i {
+    font-size: 32px;
+    line-height: 80px;
+}
+.bg-icon-account{
+    background-color: rgb(77, 184, 255, 0.3);
+    border: 1px solid rgb(77, 184, 255);
+}
+.bg-icon-page{
+    background-color: rgba(65, 102, 180, 0.5);
+    border: 1px solid rgba(65, 102, 180);
+}
+.ig-icon-accountt{
+    background-color: rgb(245, 125, 2, 0.3);
+    border: 1px solid rgb(245, 125, 2);
+}
+.bg-icon-group{
+    background-color: rgba(247, 148, 29, 0.4);
+    border: 1px solid rgba(247, 148, 29);
+}
+.text-group{
+    color: rgba(247, 148, 29) !important;
+}
+.text-page{
+    color: rgba(65, 102, 180) !important;
+}
+.text-account{
+    color: rgb(77, 184, 255) !important;
+}
+.linkedin-account{
+    color: rgb(0, 119, 181) !important;
+}
+.linkedin-icon-account{
+    background-color: rgb(0, 119, 181, 0.3);
+    border: 1px solid rgb(0, 119, 181);
+}
+.pinterest-account{
+    color: rgb(189, 8, 27) !important;
+}
+.pinterest-icon-account{
+    background-color: rgb(189, 8, 27, 0.3);
+    border: 1px solid rgb(189, 8, 27);
+}
+.youtube-account{
+    color: rgb(255, 0, 0) !important;
+}
+.youtube-icon-account{
+    background-color: rgb(255, 0, 0, 0.3);
+    border: 1px solid rgb(255, 0, 0);
+}
+.ig-account{
+    color: rgb(245, 125, 2) !important;
+}
+.reddit-account{
+    color: rgb(255, 69, 0) !important;
+}
+.reddit-icon-account{
+    background-color: rgb(255, 0, 69, 0.3);
+    border: 1px solid rgb(255, 0, 69);
+}
+.medium-account{
+    color: rgb(27, 171, 110) !important;
+}
+.medium-icon-account{
+    background-color: rgb(27, 171, 110, 0.3);
+    border: 1px solid rgb(27, 171, 110);
+}
+.wordpress-account{
+    color: rgb(0,160,210) !important;
+}
+.wordpress-icon-account{
+    background-color: rgb(0,160,210, 0.3);
+    border: 1px solid rgb(0,160,210);
+}
+
+.tumblr-icon-account{
+    background-color: rgb(54, 70, 93, 0.3);
+    border: 1px solid rgb(54, 70, 93);
+}
+
+.fb-icon-account{
+    background-color: rgb(66, 103, 178, 0.3);
+    border: 1px solid rgb(66, 103, 178);
+}

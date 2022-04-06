@@ -1,0 +1,23 @@
+#custom-header-nav-item{
+    margin: 0 16px;color: #fff;
+    background: #400082;
+    border-color: #400082;
+}
+
+.login-page {
+    background: url("../images/login-back.jpg") no-repeat;
+    background-size: cover;
+}
+
+.login-page .table td, .table th {
+    padding: 0.60em;
+    cursor: pointer;
+}
+
+.login-page .login-box {
+    margin-top: 50px;
+}
+
+.identColor {
+    color: #fe346e !important;
+}
